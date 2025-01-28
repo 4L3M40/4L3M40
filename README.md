@@ -9,7 +9,7 @@
 </p>
 
 - 🌱 Atualmente, estou estudando **Desenvolvimento de Sistemas** no [SENAI](https://www.sc.senai.br)
-- 🔭 Buscando minha **primeira oportunidade de trabalho**.
+- 🔭 Buscando minha **primeira oportunidade de trabalho na área de TI**.
 
 ---
 ## 📧 Contatos
