@@ -58,16 +58,6 @@
 
 ---
 
-## 🚀 Projetos Destacados
-
-Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
-
-- **[Nome do Projeto 1](link-do-projeto)**: Breve descrição do projeto.
-- **[Nome do Projeto 2](link-do-projeto)**: Breve descrição do projeto.
-- **[Nome do Projeto 3](link-do-projeto)**: Breve descrição do projeto.
-
----
-
 ## 🎯 Objetivos
 
 - 🎓 Concluir minha formação em **Desenvolvimento de Sistemas**.
