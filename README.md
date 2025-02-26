@@ -1,9 +1,7 @@
 <!-- Título -->
 <h1 align="center">👨‍💻 Evandro Wagencknecht | Desenvolvedor em Formação 🚀</h1>
-<h3 align="center">Desenvolvedor em formação | Buscando minha primeira oportunidade na área de TI</h3>
 
 ---
-
 
 <!-- Apresentação -->
 <p align="center">
