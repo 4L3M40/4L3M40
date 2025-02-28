@@ -5,7 +5,7 @@
 
 <!-- Apresentação -->
 <p align="center">
-  Olá 👋, eu sou <strong>Evandro Wagencknecht</strong>! Um entusiasta apaixonado por tecnologia do Brasil.
+  Olá 👋, eu sou <strong>Evandro Wagencknecht</strong>! Um entusiasta apaixonado por tecnologia.
 </p>
 
 - 🌱 Atualmente, estou estudando **Desenvolvimento de Sistemas** no [SENAI](https://www.sc.senai.br).
