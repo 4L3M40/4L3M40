@@ -1,17 +1,21 @@
 <!-- Título -->
-<h1 align="center">👨‍💻 Evandro Wagencknecht | Desenvolvedor em Formação 🚀</h1>
+<h1 align="center">👨‍💻 Evandro Wagencknecht | Desenvolvedor em Formação & Apaixonado por Tecnologia 🚀</h1>
+
 
 ---
 
 <!-- Apresentação -->
 <p align="center">
-  Olá 👋, eu sou <strong>Evandro Wagencknecht</strong>! Um entusiasta apaixonado por tecnologia.
+  Sou <strong>Evandro Wagencknecht</strong>, estudante de Desenvolvimento de Sistemas e entusiasta de tecnologia. Busco minha primeira oportunidade na área de TI, com foco em desenvolvimento web, automação e análise de dados.
 </p>
 
+---
+
 - 🌱 Atualmente, estou estudando **Desenvolvimento de Sistemas** no [SENAI](https://www.sc.senai.br).
-- 🔭 Buscando minha **primeira oportunidade de trabalho na área de TI**.
-- 📚 Focado em aprender **Python, Java, HTML, CSS, MySQL e GitHub**.
-- 🚀 Interessado em **desenvolvimento web, automação e análise de dados**.
+- 📚 Estudando e aplicando: **Python, Java, C, C++, HTML, CSS, JavaScript, MySQL e Git/GitHub**
+- 🔭 Em busca da **primeira oportunidade na área de TI**
+- 🚀 Áreas de interesse: **Desenvolvimento Web**, **Automação** e **Análise de Dados**
+
 
 ---
 
@@ -38,10 +42,20 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚧 Tecnologias e ferramentas
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -59,11 +73,10 @@
 
 ## 🎯 Objetivos
 
-- 🎓 Concluir minha formação em **Desenvolvimento de Sistemas**.
-- 💼 Conseguir minha **primeira oportunidade na área de TI**.
-- 🌐 Aprofundar meus conhecimentos em **desenvolvimento web e automação**.
-- 🤝 Contribuir para projetos open source e colaborar com a comunidade de tecnologia.
-
+- 🎓 Concluir minha formação técnica em **Desenvolvimento de Sistemas**
+- 💼 Conquistar minha **primeira vaga como desenvolvedor**
+- 🌱 Aprofundar conhecimentos em **desenvolvimento web**, **automação** e **dados**
+- 🤝 Contribuir com projetos open source e aprender colaborando com a comunidade
 ---
 
 ## 📌 Frase Motivacional
@@ -79,3 +92,4 @@ Este perfil está sob a licença [MIT](LICENSE). Sinta-se à vontade para usar e
 ---
 
 <p align="center">Obrigado por visitar meu perfil! 😊</p>
+
