@@ -91,5 +91,5 @@ Este perfil está sob a licença [MIT](LICENSE). Sinta-se à vontade para usar e
 
 ---
 
-<p align="center">Obrigado por visitar meu perfil! 😊</p>
+<p align="center">Obrigado por visitar meu perfil!😊</p>
 
