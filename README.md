@@ -1,7 +1,6 @@
 <!-- Título -->
 <h1 align="center">👨‍💻 Evandro Wagencknecht | Desenvolvedor em Formação & Apaixonado por Tecnologia 🚀</h1>
 
-
 ---
 
 <!-- Apresentação -->
