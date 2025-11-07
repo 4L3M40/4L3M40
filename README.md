@@ -5,16 +5,17 @@
 
 <!-- Apresentação -->
 <p align="center">
-  Sou <strong>Evandro Wagencknecht</strong>, estudante de Desenvolvimento de Sistemas e entusiasta de tecnologia. Busco minha primeira oportunidade na área de TI, com foco em desenvolvimento web, automação e análise de dados.
+  Sou <strong>Evandro Wagencknecht</strong>, <strong>graduando em Engenharia de Software</strong> pela Anhanguera e formado em <strong>Desenvolvimento de Sistemas</strong> pelo SENAI.  
+  Apaixonado por tecnologia, busco minha primeira oportunidade na área de TI, com foco em <strong>desenvolvimento web</strong>, <strong>automação</strong> e <strong>análise de dados</strong>.
 </p>
 
 ---
 
-- 🌱 Atualmente, estou estudando **Desenvolvimento de Sistemas** no [SENAI](https://www.sc.senai.br).
-- 📚 Estudando e aplicando: **Python, Java, C, C++, HTML, CSS, JavaScript, MySQL e Git/GitHub**
-- 🔭 Em busca da **primeira oportunidade na área de TI**
-- 🚀 Áreas de interesse: **Desenvolvimento Web**, **Automação** e **Análise de Dados**
-
+- 🎓 Atualmente cursando **Engenharia de Software** na [Anhanguera](https://www.anhanguera.com).
+- ✅ Formado em **Desenvolvimento de Sistemas** pelo [SENAI](https://www.sc.senai.br).
+- 📚 Estudando e aplicando: **Python, Java, C, C++, HTML, CSS, JavaScript, MySQL, Git/GitHub**
+- 🔭 Em busca da **primeira oportunidade na área de desenvolvimento**
+- 🚀 Áreas de interesse: **Desenvolvimento Web**, **Automação**, **Engenharia de Software** e **Análise de Dados**
 
 ---
 
@@ -50,10 +51,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
-## 🚧 Tecnologias e ferramentas
+## 🚧 Tecnologias e Ferramentas
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -78,10 +78,11 @@
 
 ## 🎯 Objetivos
 
-- 🎓 Concluir minha formação técnica em **Desenvolvimento de Sistemas**
+- 🎓 Concluir o **Bacharelado em Engenharia de Software**
 - 💼 Conquistar minha **primeira vaga como desenvolvedor**
-- 🌱 Aprofundar conhecimentos em **desenvolvimento web**, **automação** e **dados**
-- 🤝 Contribuir com projetos open source e aprender colaborando com a comunidade
+- 🌱 Aprofundar conhecimentos em **desenvolvimento web**, **automação** e **engenharia de software**
+- 🤝 Contribuir com **projetos open source** e aprender colaborando com a comunidade
+
 ---
 
 ## 📌 Frase Motivacional
@@ -97,4 +98,3 @@ Este perfil está sob a licença [MIT](LICENSE). Sinta-se à vontade para usar e
 ---
 
 <p align="center">Obrigado por visitar meu perfil! 😊</p>
-
