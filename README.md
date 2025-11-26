@@ -87,7 +87,7 @@
 
 ## 📌 Frase Motivacional
 
-> "A tecnologia move o mundo, e eu quero ser parte dessa revolução!" 🚀
+> "A tecnologia move o mundo, e eu quero ser parte dessa revolução!" 🚀.
 
 ---
 
