@@ -91,10 +91,5 @@
 
 ---
 
-## 📜 Licença
-
-Este perfil está sob a licença [MIT](LICENSE). Sinta-se à vontade para usar e compartilhar!
-
----
 
 <p align="center">Obrigado por visitar meu perfil! 😊</p>
