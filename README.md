@@ -93,3 +93,7 @@
 
 
 <p align="center">Obrigado por visitar meu perfil! 😊</p>
+
+---
+
+<img src="https://streak-stats.demolab.com?user=4L3M40&theme=gotham" />
