@@ -26,15 +26,20 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evandrowagencknecht@estudante.sc.senai.br)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4L3M40&show_icons=true&theme=gotham"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4L3M40&layout=compact&theme=gotham"/>
+
+<img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4L3M40&show_icons=true&theme=gotham&hide_border=true"/>
+
+<img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4L3M40&layout=compact&theme=gotham&hide_border=true"/>
+
 </div>
 
 ---
+<p align="center">
+<img height="140" src="https://streak-stats.demolab.com?user=4L3M40&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 🔥 Habilidades
 
@@ -94,6 +99,4 @@
 
 <p align="center">Obrigado por visitar meu perfil! 😊</p>
 
----
 
-<img src="https://streak-stats.demolab.com?user=4L3M40&theme=gotham" />
