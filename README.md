@@ -28,8 +28,6 @@
 ---
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <table align="center">
 <tr>
 <td width="50%">
@@ -43,9 +41,12 @@
 </table>
 
 ---
+
 <p align="center">
 <img height="175" src="https://streak-stats.demolab.com?user=4L3M40&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
 
 ## 🔥 Habilidades
 
