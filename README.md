@@ -28,17 +28,23 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4L3M40&show_icons=true&theme=gotham&hide_border=true"/>
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=4L3M40&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
+</td>
 
-<img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4L3M40&layout=compact&theme=gotham&hide_border=true"/>
-
-</div>
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4L3M40&layout=compact&theme=gotham&hide_border=true"/>
+</td>
+</tr>
+</table>
 
 ---
 <p align="center">
-<img height="140" src="https://streak-stats.demolab.com?user=4L3M40&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://streak-stats.demolab.com?user=4L3M40&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔥 Habilidades
