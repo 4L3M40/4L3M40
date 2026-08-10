@@ -25,16 +25,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evandrowagencknecht@estudante.sc.senai.br)
 
 ---
+
 ## 📊 GitHub Stats
 
 <table align="center">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=4L3M40&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.shion.dev/api?username=4L3M40&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
 </td>
 
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4L3M40&layout=compact&theme=gotham&hide_border=true"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=4L3M40&layout=compact&theme=gotham&hide_border=true"/>
 </td>
 </tr>
 </table>
